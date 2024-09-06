@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/985744a5-2ce8-4897-a214-0e7fde17e081)
 
 # Multi-Class Classification with PyTorch
 
